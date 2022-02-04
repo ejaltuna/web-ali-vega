@@ -1,0 +1,224 @@
+		 
+@media (max-width: 1000px) {#logo, #header-top {
+
+	display: none;
+}
+}
+@media (max-width: 1000px) {#numeroc, #correo1, #espacio {
+
+	display: none;
+
+}
+}
+@media (max-width: 1024px) {#lv  {
+
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: -10px !important;
+
+}
+}
+
+
+@media (max-width: 1000px) {#redes1{
+
+
+	text-align: right !important;
+	margin-top: 0px !important;
+	width: 65% !important;
+	font-size: 14px !important;
+
+
+}
+}
+@media (max-width: 1000px) {#numeros{		 
+	width: 32% !important;
+	font-size: 18px;
+}
+}
+@media (max-width: 360px) {#t1{		 
+
+	font-size: 22px !important;
+}
+}
+@media (max-width: 1000px) {#redes2{		 
+
+	width: 30px;
+	height: 30px;
+	line-height: 30px;	 
+}
+}
+@media (max-width: 1000px) {#fooh{		 
+	padding: 5px 0px !important; 
+
+}
+}
+@media (max-width: 1000px) {#telf{		 
+	margin-right: 10px !important; 
+
+}
+}
+@media (max-width: 1000px) {#espacio{
+	display: none !important; 
+}
+}
+
+@media (max-width: 1000px) {#socialr, #derec{
+	text-align: center !important; 
+}
+}
+
+@media (max-width: 419px) {#smenu{
+	max-width: 348px  !important; 
+}
+}
+
+@media (max-width: 769px) {#Productam{
+	width: 100px !important;
+}
+}
+
+@media (max-width: 769px) {#ubiacion{
+	width: 322px !important ;
+	height: 150px !important;
+}
+}
+
+
+.bordert{
+	background-color: #00000085;
+	border-radius: 22px;
+	margin-top: 15em;
+}
+.tamcolor{
+	font-size: 17px;
+	color: #fff;
+	margin: 3em;
+
+}
+.tamcolor2{
+	font-size: 18px;
+}
+
+.banner-area2{
+	background-color: #00000085;
+	border-radius: 22px;
+	color: #fff;
+}
+
+.banner-area3{
+	overflow: hidden;
+	background: linear-gradient(rgba(217, 57, 57, 0.65), rgba(236, 229, 229, 0.2)), url(../img/prologo2.jpg) fixed center center;
+	background-size: cover;
+	padding: 10px 0;
+
+}
+.tamlg{
+	width: 30%;
+	margin-top: -20px;
+	margin-bottom: -20px;
+	margin-right: 10px;
+}
+.tamlg:hover{
+	-webkit-transform: scale(1.3);
+	-ms-transform: scale(1.3);
+	transform: scale(1.3);
+
+}
+.logtam:hover{
+	-webkit-transform: scale(1.3);
+	-ms-transform: scale(1.3);
+	transform: scale(1.3);
+
+}
+.footer-bottom1{
+
+	padding: 5px 0px;
+}
+
+.MVimg1{
+
+	border-radius:  10%;
+	background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(236, 229, 229, 0.2)), url(../img/fondo2.jpg) fixed center center;
+}
+.MVimg2{
+
+	border-radius:  10%;
+	background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(236, 229, 229, 0.2)), url(../img/fondo2.jpg) fixed center center;
+}
+.banner{
+	background: url(../img/top-banner2.jpg) no-repeat bottom right/cover;
+	background-size: cover;
+}
+
+.bordes1{
+	border-radius: 5%;
+}
+
+
+/*modal*/
+.tamcolormodal{
+	font-size: 16px;
+	color: #fff;
+}
+
+.cerrar{
+	font-size: 18px;
+}
+.listado{
+	background: linear-gradient(rgba(217, 57, 57, 0.65), rgba(236, 229, 229, 0.2)), url(../img/fondo2.jpg) fixed center center;
+}
+.tablefondo{
+
+	background: #fff;
+
+}
+.mvmerg{
+	padding-top: 1em;
+}
+.dreserv{
+	font-size: 11px;
+}
+
+.hola{
+	position: absolute;
+	left: 0;
+	top: 50px;
+	right: 0;
+	height: calc(40% - 50px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	flex-direction: column;
+}
+.hola3{
+
+	background-color: rgba(0,0,0);
+	border-radius: 60px;
+	z-index: 907;
+}
+.hola4{
+
+	background-color: rgb(255, 255, 255);
+ 	font-size: 18px;
+
+ 
+}
+
+.receta1{
+	font-size: 16px;
+	color: #fff;
+
+
+}
+
+.img-fluide{
+	max-width: 100%;
+	height: auto;
+}
+.tamaoletraslista{
+	font-size: 14px;
+
+}
